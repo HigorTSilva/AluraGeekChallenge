@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "name": "Mustang GT",
+      "price": "800.000",
+      "image": "https://live.dealer-asset.co/images/br1001/news/ford-brasil-noticia-tecnologias-exclusivas-mustang-gt-27092024.jpg?s=1024",
+      "id": "1"
+    },
+    {
+      "name": "Pagani Zonda",
+      "price": "4.000.000",
+      "image": "https://s2-autoesporte.glbimg.com/i07f5Qk-qMzsvnNNl5Z0xwQIF6E=/0x260:2592x1728/600x0/smart/filters:gifv():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/O/A/8KROmFQUuYp1G8fxRNsg/pagani-01.jpg",
+      "id": "2"
+    },
+    {
+      "name": "Maserati",
+      "price": "750.000",
+      "image": "https://cdn.motor1.com/images/mgl/6ZQgqk/s1/2025-maserati-grancabrio-folgore-first-drive-review.jpg",
+      "id": "3"
+    },
+    {
+      "name": "Ferrari LaFerrari",
+      "price": "1.500.000",
+      "image": "https://cdn.motor1.com/images/mgl/qkMVVv/s3/ferrari-laferrari.jpg",
+      "id": "6"
+    },
+    {
+      "name": "Porsche Cayenne",
+      "price": "1.000.000",
+      "image": "https://cdn.motor1.com/images/mgl/P3nz4y/s3/porsche-cayenne-2023.jpg",
+      "id": "7"
+    },
+    {
+      "id": "825b",
+      "name": "Lamborghini veneno",
+      "price": "6.000.000",
+      "image": "https://www.agoramotors.com.br/wp-content/uploads/2024/04/Lamborghini-Veneno.jpg"
+    },
+    {
+      "id": "70e8",
+      "name": "Lamborghini huracan",
+      "price": "2.000.000",
+      "image": "https://declatrack.com.br/wp-content/uploads/2019/07/2020-lamborghini-huracan-evo-2.jpg"
+    }
+  ]
+}
