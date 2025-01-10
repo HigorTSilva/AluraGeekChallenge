@@ -1,8 +1,8 @@
-# AluraGeek
-![Screenshot 2024-09-27 095600](https://github.com/user-attachments/assets/98984f99-f8c9-4521-89c3-dbfbab83f2d2)
+# AluraGeekChallenge
+![Imagem do projeto]([https://github.com/user-attachments/assets/98984f99-f8c9-4521-89c3-dbfbab83f2d2](https://github.com/user-attachments/assets/429408af-a1d7-4e61-83f6-3bb7fe51f496))
 
 
-**AluraGeek** é uma aplicação web que permite aos usuários gerenciar uma lista de carros. Os usuários podem **visualizar**, **adicionar** e **remover** carros utilizando tecnologias frontend modernas e um servidor JSON simulado.
+**AluraGeekChallenge** é uma aplicação web que permite aos usuários gerenciar uma lista de carros. Os usuários podem **visualizar**, **adicionar** e **remover** carros utilizando tecnologias frontend modernas e um servidor JSON simulado.
 
 ## 🔥 Funcionalidades
 
